@@ -5,4 +5,6 @@
 
 
 def test_func():
+    # comment
+    print("test func")
     return 0
